@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<style name="Theme.Custom" parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+		<item name="android:colorAccent">#ffc12525</item>
+	</style>
+</resources>

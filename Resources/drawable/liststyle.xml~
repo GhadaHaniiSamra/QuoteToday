@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+    android:orientation="horizontal"
+    android:gravity="left|center_vertical"
+    android:padding="5dp">
+    <TextView
+        android:id="@+id/lblTestLabel"
+        android:layout_width="wrap_content"
+        android:textSize="15dip"
+			   android:inputType="textPersonName"
+        android:layout_marginLeft="5dip"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff" />
+    
+</LinearLayout>
